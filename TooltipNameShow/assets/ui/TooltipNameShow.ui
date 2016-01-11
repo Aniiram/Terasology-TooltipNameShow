@@ -1,0 +1,21 @@
+{
+    "type": "TooltipNameShow",
+    "skin": "HUD",
+    "contents": {
+        "type": "relativeLayout",
+        "contents": [{
+                "type": "UILabel",
+                "id": "blockNameT",
+                "layoutInfo": {
+                    "width": 100,
+                    "height": 30,
+                    "position-horizontal-center": {},
+                    "position-bottom": {
+                        "target": "BOTTOM",
+                        "offset": 100
+                    }
+                }
+            }
+        ]
+    }
+}

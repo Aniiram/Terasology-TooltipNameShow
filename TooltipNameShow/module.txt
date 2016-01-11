@@ -1,0 +1,8 @@
+{
+    "id" : "TooltipNameShow",
+    "version" : "0.1.1-SNAPSHOT",
+    "author" : "Group of Portuguese Students",
+    "displayName" : "TooltipNameShow",
+    "description" : "When you change tooltip the name of the tooltip appears for a few seconds",
+    "dependencies" : []
+}
